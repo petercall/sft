@@ -1,6 +1,3 @@
-#pictures
-*.png
-
 #data files
 *.txt
 *.csv
